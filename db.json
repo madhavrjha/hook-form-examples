@@ -1,0 +1,27 @@
+{
+  "username": ["example", "example1", "example2"],
+  "email": [
+    "example@gmail.com",
+    "example1@gmail.com",
+    "example2@gmail.com",
+    "hello@gmail.com"
+  ],
+  "grade": {
+    "1": {
+      "A": ["Amit", "Ankita", "Diksha", "Sayli"],
+      "B": ["Alok", "Madhav", "Monika"],
+      "C": ["Deependra", "Nikita", "Gyaneshwar"]
+    },
+    "2": {
+      "D": ["Rajnandini", "Abhishek"],
+      "E": ["Shubham", "Kunal"],
+      "F": ["Dipesh", "Trisha"]
+    },
+    "3": {
+      "G": ["Vinod", "Vipin", "Gautam", "Vinay", "Shahad"],
+      "H": ["Roushan", "Amir", "Atul", "Bassam", "Jasir", "Viral"],
+      "I": ["Baba", "Pratik"],
+      "J": ["Ameya"]
+    }
+  }
+}
